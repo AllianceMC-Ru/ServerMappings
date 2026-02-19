@@ -1,0 +1,21 @@
+{
+    "id": "alliancemc",
+    "name": "Best Russian Bedwars Server",
+    "description": "A competitive Minecraft Bedwars experience offering various PvP modes.",
+    "addresses": [
+      "asrbw.com"
+    ],
+    "primaryAddress": "alliancemc.su",
+    "minecraftVersions": [
+      "1.8.*"
+    ],
+  "primaryMinecraftVersion": "1.8.9",
+    "gameTypes": [
+      "Minigames",
+      "PvP",
+      "Parkour"
+    ],
+    "primaryColor": "#000000",
+    "secondaryColor": "#ffffff"
+  }
+  
