@@ -1,9 +1,9 @@
 {
     "id": "alliancemc",
-    "name": "Best Russian Bedwars Server",
-    "description": "A competitive Minecraft Bedwars experience offering various PvP modes.",
+    "name": "AllianceMc",
+    "description": "Best Russian Bedwars Server.",
     "addresses": [
-      "asrbw.com"
+      "alliancemc.su"
     ],
     "primaryAddress": "alliancemc.su",
     "minecraftVersions": [
